@@ -64,7 +64,7 @@ html, body{
 }
 
 .site-main .site-banner .site-title h3{
-    padding-top: 35%;
+    padding-top: 20%;
     font-weight: 500;
     font-size: 200%;
 }
@@ -144,7 +144,7 @@ html, body{
     box-shadow: var(--box-shadow);
 }
 
-@media only screen and (min-height: 650px) and (max-height: 650px) {
+@media only screen and (min-height: 500px) and (max-height: 650px) {
     .site-main .site-banner .site-title h1{
         font-size: 30px;
         margin-top: -40px;
@@ -188,7 +188,7 @@ html, body{
     }
 }
 
-@media only screen and (min-height: 500px) and (max-height: 730px) {
+@media only screen and (min-height: 650px) and (max-height: 730px) {
     .site-main .site-banner .site-title h1{
         font-size: 40px;
         margin-top: -30px;
@@ -247,7 +247,7 @@ html, body{
     }
 }
 
-@media only screen and (min-height: 730px) and (max-height:1020px){
+@media only screen and (max-width:500px) and (min-height: 730px) and (max-height:900px){
     .site-main .site-banner .site-title h1{
         font-size: 50px;
         margin-top: -20px;
@@ -394,7 +394,7 @@ p.para{
 }
 
 .site-main .about-area .about-title .para{
-    padding: 1rem 0;
+    padding: 1rem;
     font-size: 17px;
     margin-top: -10px;
     margin-bottom: 0px;
