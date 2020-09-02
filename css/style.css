@@ -27,21 +27,21 @@ html, body{
     --roboto: 'Roboto';
 }
 
-.header_area .main-menu .nav-item .nav-link {
+.site-banner .site-title .nav-item .nav-link {
     font: normal 500 15px/ 2px var(--roboto);
     text-transform: uppercase;
     padding: 1.7rem;
     color: var(--title-color);
 }
 
-.header_area .main-menu .navbar-nav .active a{
+.site-banner .site-title .navbar-nav .active a{
     background: var(--gradient-color);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     background-clip:text;
 }
 
-.header_area .main-menu .navbar-nav a:hover{
+.site-banner .site-title .navbar-nav a:hover{
     background: var(--gradient-color);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
@@ -87,6 +87,7 @@ html, body{
 
 .site-main .site-banner .banner-image > img{
     padding: 1rem 0;
+    margin-top:30%;
     width: 30;
 }
 
@@ -185,6 +186,7 @@ html, body{
         display: block;
         margin-left: auto;
         margin-right: auto;
+        margin-top:0%;
     }
 }
 
@@ -230,6 +232,7 @@ html, body{
         display: block;
         margin-left: auto;
         margin-right: auto;
+        margin-top:0%;
         
     }
     .site-main .site-banner .site-title {
@@ -295,6 +298,7 @@ html, body{
         display: block;
         margin-left: auto;
         margin-right: auto;
+        margin-top:0%;
     }
     .site-main .site-banner .site-title .site-buttons .button.primary-button{
         display: block;
