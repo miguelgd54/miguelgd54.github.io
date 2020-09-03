@@ -747,6 +747,8 @@ h2{
 
 /* End Project */
 
+/* Start Skills */
+
 .site-main .techs-area{
     padding: 7rem 2rem;
 }
@@ -761,7 +763,7 @@ h2{
 }
 
 .site-main > .techs-area .techs{
-    background: rgba(248, 252, 253, 0.973);
+    background: rgba(234, 243, 245, 0.973);
     padding: 2rem 0;
     width: 16rem;
     margin: 2rem .5rem;
@@ -855,7 +857,7 @@ h2{
     }
     
     .site-main > .techs-area .techs{
-        background: rgba(63, 212, 214, 0.973);
+        background: rgba(234, 243, 245, 0.973);
         display: block;
         padding: 2rem 0;
         width: 15rem;
@@ -939,6 +941,8 @@ h2{
         margin-bottom: -25px;
     }
 }
+
+/* Start Skills */
 
 /* Start Footer */
 .site-footer
