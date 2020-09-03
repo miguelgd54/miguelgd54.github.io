@@ -147,7 +147,7 @@ html, body{
 
 @media only screen and (min-height: 500px) and (max-height: 650px) {
     .site-main .site-banner .site-title h1{
-        font-size: 30px;
+        font-size: 40px;
         margin-top: -40px;
     }
     
@@ -160,15 +160,13 @@ html, body{
 
     .site-main .site-banner .site-title h5{
         font-size: .8rem;
-        margin-top: -80px;
+        margin-top: -90px;
         padding-top: 10%;
         font-weight: bold;
     }
-    .site-main .site-banner .site-title h3{
-        margin-top: -80px;
-        padding-top: 35%;
-        font-weight: 500;
-        font-size: 15px;
+    .site-main .site-banner .site-title {
+        margin-top: -15%;
+        margin-left:10px;
     }
 
     .site-main .site-banner .site-title h3::after{
@@ -202,17 +200,11 @@ html, body{
         margin-left: 3px;
         font-size: 17px;
     }
-    .site-main .site-banner .site-title h3{
-        margin-top: -130px;
-        padding-top: 35%;
-        font-weight: 500;
-        font-size: 17px;
-    }
 
     .site-main .site-banner .site-title h5{
         font-size: 17px;
-        margin-top: -80px;
-        margin-left: 3px;
+        margin-top: -90px;
+        margin-left: 0px;
         padding-top: 10%;
         font-weight: bold;
     }
@@ -236,6 +228,7 @@ html, body{
         
     }
     .site-main .site-banner .site-title {
+        margin-top: -10%;
         margin-left:10px;
     }
     .site-main .site-banner .site-title .site-buttons .button.primary-button{
@@ -258,28 +251,22 @@ html, body{
     }
     
     .site-main .site-banner .site-title h4{  
-        margin-left: 5px;
+        margin-left: 2px;
         margin-top: -100px;
         margin-bottom: 50px;
         font-size: 15px;
     }
-    .site-main .site-banner .site-title h3{
-        margin-top: -120px;
-        margin-left: 5px;
-        padding-top: 35%;
-        font-weight: 500;
-        font-size: 20px;
-    }
 
     .site-main .site-banner .site-title h5{
         font-size: 15px;
-        margin-left: 5px;
+        margin-left: 2px;
         margin-top: -130px;
         padding-top: 10%;
         font-weight: bold;
     }
 
     .site-main .site-banner .site-title {
+        margin-top: -13%;
         margin-left:10px;
     }
 
@@ -294,9 +281,9 @@ html, body{
     
     .site-main .site-banner .banner-image > img{
         padding: 1rem 0;
-        width: 330px;
+        width: 310px;
         display: block;
-        margin-top: 0px;
+        margin-top: -10px;
         margin-left: auto;
         margin-right: auto;
     }
