@@ -3,6 +3,7 @@
 @import url(./fonts.css);
 
 /* Start Navigation */
+
 html, body{
     margin: 0%;
     box-sizing: border-box;
@@ -854,7 +855,7 @@ h2{
     }
     
     .site-main > .techs-area .techs{
-        background: rgba(248, 252, 253, 0.973);
+        background: rgba(63, 212, 214, 0.973);
         display: block;
         padding: 2rem 0;
         width: 15rem;
